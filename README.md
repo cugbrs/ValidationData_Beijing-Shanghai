@@ -5,5 +5,5 @@ For evaluating the performance of different methods, 3,662 ground survey samples
 ## Distribution and Numbers
 ![](https://github.com/cugbrs/ValidationData_Beijing-Shanghai/raw/master/img/Fig10.jpg)
 ## Data Format
-There are two '.zip' files for two cities, and each '.zip' file contain four '.shp' files for four classes. <br>
-Coordinate System: 'GCS_WGS_1984'
+There are two `.zip` files for two cities, and each `.zip` file contain four `.shp` files for four classes. <br>
+Coordinate System: `GCS_WGS_1984`
